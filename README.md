@@ -1,3 +1,3 @@
 - Frontend dev.
 - JS, React.js, Next.js, Node.js, Express
-
+- My portfolio: https://snayi-next-js-portfolio.vercel.app/
