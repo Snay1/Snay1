@@ -1,3 +1,3 @@
-- Frontend dev.
+- Frontend dev. (2+ years of experience)
 - JS, React.js, Next.js, Node.js, Express
 - My portfolio: https://snayi-next-js-portfolio.vercel.app/
