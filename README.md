@@ -1,4 +1,5 @@
 Frontend dev. (2+ years of experience)
+
 FrontEnd (Main):
   - HTML
   - CSS / SCSS / CSS Modules / Material UI / Styled components / Tailwind CSS
@@ -11,6 +12,7 @@ FrontEnd (Main):
   - Vue.js / Nuxt.js
   - Pinia
   - Git
+
 BackEnd:
   - Node.js
   - MongoDB / PostgreSQL
