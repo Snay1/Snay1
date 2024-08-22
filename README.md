@@ -12,6 +12,7 @@ FrontEnd (Main):
   - Vue.js / Nuxt.js
   - Pinia
   - Git
+  - Vitest / Jest
 
 BackEnd:
   - Node.js
