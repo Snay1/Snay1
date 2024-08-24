@@ -5,7 +5,7 @@ FrontEnd (Main):
   - CSS / SCSS / CSS Modules / Material UI / Styled components / Tailwind CSS
   - JavaScript / TypeScript
   - React.js / Next.js
-  - React Query / RTK Query
+  - React Query / RTK Query / Zustand
   - WebSocket
   - Vite
   - Prettier
